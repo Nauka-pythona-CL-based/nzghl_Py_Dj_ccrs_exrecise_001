@@ -3,8 +3,8 @@
 
 This is first exercise in this course. Do the following tasks:
 
-- [] Fork this repo to your accout
-- [] Clone the repo from your account, so you can work locally on your computer
+- []Fork this repo to your accout
+- []Clone the repo from your account, so you can work locally on your computer
 - [] In file `exercise_001.py` write your first program, which prints "Hello World!" text to the console
 - [] save changes in local and remote repo
 - [] create nwe branch
